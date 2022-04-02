@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BackgroundQueue.API\BackgroundQueue.API.csproj" />
+    <ProjectReference Include="..\First.App.Core\First.App.Business.csproj" />
+    <ProjectReference Include="..\First.App.Domain\First.App.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
