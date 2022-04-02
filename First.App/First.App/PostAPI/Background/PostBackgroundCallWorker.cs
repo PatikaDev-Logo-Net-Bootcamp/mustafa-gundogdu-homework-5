@@ -5,6 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using BackgroundQueue.API.Background;
 using BackgroundQueue.API.Service;
+using First.App.Business.DTOs;
 using First.App.Domain.Entities;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
@@ -44,27 +45,25 @@ namespace PostAPI.Background
         {
             while (!stoppingToken.IsCancellationRequested)
             {
-                var request = await httpClient.GetAsync("https://jsonplaceholder.typicode.com/posts");
-                
-                if (request.IsSuccessStatusCode)
+                var request = await httpClient.GetStringAsync("https://jsonplaceholder.typicode.com/posts");
+                List<PostDto> posts = Newtonsoft.Json.JsonConvert.DeserializeObject<List<PostDto>>(request);
+                if (request.Length >0)
                 {
-                    _logger.LogInformation("Request status code {StatusCode}", request.StatusCode);
-                    var content = await request.Content.ReadAsStringAsync();
-                    var posts = JsonSerializer.Deserialize<List<Post>>(content, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+                    _logger.LogInformation("{Count} Post found in the API", posts.Count);
                     foreach (var post in posts)
                     {
-                        _queue.Enqueue(new Post
+                        _queue.Enqueue(new Post()
                         {
                             Id = post.Id,
-                            UserId = post.UserId,
                             Title = post.Title,
-                            Body = post.Body
+                            Body = post.Body,
+                            UserId = post.UserId
                         });
                     }
                 }
                 else
                 {
-                    _logger.LogError("JsonPlaceholder  is down Status Code {StatusCode}", request.StatusCode);
+                    _logger.LogError("JsonPlaceholder  is down...");
                 }
 
                 await Task.Delay(60000, stoppingToken);
