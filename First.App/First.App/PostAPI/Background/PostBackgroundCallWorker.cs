@@ -16,7 +16,7 @@ namespace PostAPI.Background
         private readonly ILogger<PostBackgroundCallWorker> _logger;
         private HttpClient httpClient;
         private readonly IBackgroundQueue<Post> _queue;
-
+          
         public PostBackgroundCallWorker(ILogger<PostBackgroundCallWorker> logger,IBackgroundQueue<Post> queue)
         {
             _logger = logger;
