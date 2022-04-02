@@ -104,3 +104,11 @@ C:\Users\HP GAMİNG\Desktop\First.App\First.App.Tests\obj\Debug\net5.0\ref\First
 C:\Users\HP GAMİNG\Desktop\First.App\First.App.Tests\bin\Debug\net5.0\Castle.Core.dll
 C:\Users\HP GAMİNG\Desktop\First.App\First.App.Tests\bin\Debug\net5.0\NSubstitute.dll
 C:\Users\HP GAMİNG\Desktop\First.App\First.App.Tests\bin\Debug\net5.0\nunit.framework.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Tests\obj\Debug\net5.0\First.App.Tests.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Tests\obj\Debug\net5.0\First.App.Tests.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Tests\obj\Debug\net5.0\First.App.Tests.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Tests\obj\Debug\net5.0\First.App.Tests.AssemblyInfo.cs
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Tests\obj\Debug\net5.0\First.App.Tests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Tests\obj\Debug\net5.0\First.App.Tests.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Tests\obj\Debug\net5.0\refint\First.App.Tests.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Tests\obj\Debug\net5.0\First.App.Tests.pdb

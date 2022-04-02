@@ -42,3 +42,47 @@ C:\Users\HP GAMİNG\Desktop\First.App\WebSiteStatusCheck\obj\Debug\netcoreapp3.1
 C:\Users\HP GAMİNG\Desktop\First.App\WebSiteStatusCheck\obj\Debug\netcoreapp3.1\WebSiteStatusCheck.dll
 C:\Users\HP GAMİNG\Desktop\First.App\WebSiteStatusCheck\obj\Debug\netcoreapp3.1\WebSiteStatusCheck.pdb
 C:\Users\HP GAMİNG\Desktop\First.App\WebSiteStatusCheck\obj\Debug\netcoreapp3.1\WebSiteStatusCheck.genruntimeconfig.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\appsettings.json
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\WebSiteStatusCheck.exe
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\WebSiteStatusCheck.deps.json
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\WebSiteStatusCheck.runtimeconfig.json
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\WebSiteStatusCheck.runtimeconfig.dev.json
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\WebSiteStatusCheck.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\WebSiteStatusCheck.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\obj\Debug\netcoreapp3.1\WebSiteStatusCheck.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\obj\Debug\netcoreapp3.1\WebSiteStatusCheck.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\obj\Debug\netcoreapp3.1\WebSiteStatusCheck.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\obj\Debug\netcoreapp3.1\WebSiteStatusCheck.AssemblyInfo.cs
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\obj\Debug\netcoreapp3.1\WebSiteStatusCheck.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\obj\Debug\netcoreapp3.1\WebSiteStatusCheck.csproj.CopyComplete
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\obj\Debug\netcoreapp3.1\WebSiteStatusCheck.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\obj\Debug\netcoreapp3.1\WebSiteStatusCheck.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\WebSiteStatusCheck\obj\Debug\netcoreapp3.1\WebSiteStatusCheck.genruntimeconfig.cache

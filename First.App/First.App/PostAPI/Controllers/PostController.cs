@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using First.App.Business.Abstract;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace PostAPI.Controllers
@@ -7,16 +8,21 @@ namespace PostAPI.Controllers
     [ApiController]
     public class PostController : ControllerBase
     {
+        private IPostService postService;
 
+        public PostController(IPostService postService)
+        {
+            this.postService = postService;
+        }
         [HttpGet]
         [Route("GetAllPosts")]
         public IActionResult Get()
         {
-            
-            return Ok("Hello World");
+            var posts = postService.GetAll();
+            return Ok(posts);
         }
 
        
     }
 }
-}
+

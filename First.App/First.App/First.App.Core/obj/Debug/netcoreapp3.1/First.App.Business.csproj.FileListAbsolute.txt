@@ -49,3 +49,20 @@ C:\Users\HP GAMİNG\Desktop\First.App\First.App.Core\obj\Debug\netcoreapp3.1\Fir
 C:\Users\HP GAMİNG\Desktop\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.csproj.CopyComplete
 C:\Users\HP GAMİNG\Desktop\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.dll
 C:\Users\HP GAMİNG\Desktop\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Business.deps.json
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Business.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Business.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.AssemblyInfo.cs
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.csproj.CopyComplete
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.pdb

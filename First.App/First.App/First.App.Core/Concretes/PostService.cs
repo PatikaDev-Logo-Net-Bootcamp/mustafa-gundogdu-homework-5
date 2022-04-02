@@ -8,7 +8,7 @@ using First.App.Domain.Entities;
 
 namespace First.App.Business.Concretes
 {
-    internal class PostService:IPostService
+    public class PostService:IPostService
     {
         private readonly IRepository<Post> repository;
         private readonly IUnitOfWork unitOfWork;

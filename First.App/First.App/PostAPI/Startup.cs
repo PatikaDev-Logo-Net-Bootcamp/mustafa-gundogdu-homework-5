@@ -37,10 +37,11 @@ namespace PostAPI
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "PostAPI", Version = "v1" });
             });
+            services.AddScoped<IPostService, PostService>();
             services.AddHostedService<PostBackgroundSaveWorker>();
             services.AddHostedService<PostBackgroundCallWorker>();
             services.AddSingleton<IBackgroundQueue<Post>, BackgroundQueue<Post>>();
-            services.AddSingleton<IPostService, PostService>();
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

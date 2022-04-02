@@ -28,3 +28,13 @@ C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\F
 C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.CoreCompileInputs.cache
 C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.dll
 C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.deps.json
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfo.cs
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.pdb
